@@ -15,4 +15,6 @@ git clone
 mkdir dir1
 rmdir dir1
 rm -rf dir1
-
+git reset --mixed cid
+git reset head filename
+git reset --soft cid

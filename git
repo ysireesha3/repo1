@@ -10,3 +10,9 @@ git log --author=demo
 git log --author=demo --one line -n
 git config --global user name " "
 git config --global user email " "
+git push
+git clone
+mkdir dir1
+rmdir dir1
+rm -rf dir1
+

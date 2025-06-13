@@ -3,4 +3,5 @@ git branch
 git branch release1
 git status
 git merge
-
+git bash
+git rebase

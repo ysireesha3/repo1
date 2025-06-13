@@ -1,7 +1,14 @@
 Hii,
 my name is xyz...
 i am from AP
+<<<<<<< HEAD
 NICE TO MEET YOU.
 sample1
 sample2
 sample3
+=======
+NICE TO MEET YOU
+sample1
+sample2
+sample3.
+>>>>>>> 513df7c6be07a5ba18afebfdc361f10e0eba037c

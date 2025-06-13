@@ -1,7 +1,16 @@
 Hello all,
 Good Afternoon,
+<<<<<<< HEAD
 Welcome to GitHub classes
 sample data 1.
 sample data 2
 sample data 3
 sample data 4
+=======
+Welcome to GitHub classes.
+sample data 1
+sample data2
+sample data 3
+sample data4
+sample data5
+>>>>>>> 513df7c6be07a5ba18afebfdc361f10e0eba037c
